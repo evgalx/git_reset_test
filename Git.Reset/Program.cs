@@ -6,6 +6,7 @@ namespace Git.Reset
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World Branch 01_test!");
             Console.WriteLine("Hello World!");
         }
     }
